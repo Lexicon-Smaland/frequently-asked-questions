@@ -13,7 +13,7 @@
  > :heavy_exclamation_mark: Lexicon exists in multiple location.  
  > We are only associated with the offices in Växjö & Jönköping.
 
-###Offices
+### Offices
 
 **Växjö**  
 (Secound floor Lexicon)  
@@ -46,10 +46,10 @@ Monday - Friday, 08:00 - 17:00
 ### Office Number
 
 Lexicon Växjö  
-[0470-77 77 25](tel:0470-77 77 25)
+0470-77 77 25
 
 Lexicon Jönköping  
-[036-30 56 30](tel:036-30 56 30)
+036-30 56 30
 
 
 ### Kent Gudmundsen
@@ -84,13 +84,6 @@ Educator in: Java
 Educator in: Java
 
 - Email: mehrdad.javan@lexicon.se
-
-### Teresia Gable
-
-Educator in: .Net, Java
-
-- Email: teresia.gable@lexicon.se
-
 
 ---
 ## How does the holidays look like at Lexicon?
