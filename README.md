@@ -1,6 +1,5 @@
 # FAQ - Frequently Asked Questions
 
 
-## Links
-
-#### [Lexicon Office](/FAQ-Lexicon.md)
+### Links
+## [Lexicon Office](/FAQ-Lexicon.md)
