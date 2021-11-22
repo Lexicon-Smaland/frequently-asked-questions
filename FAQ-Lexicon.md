@@ -10,7 +10,7 @@
 ---
 ## Where is the Lexicon Office located?
 
- > :heavy_exclamation_mark: Lexicon exists in multiple location.  
+ > Lexicon exists in multiple location.  
  > We are only associated with the offices in Växjö & Jönköping.
 
 ### Offices
@@ -116,17 +116,21 @@ The process could look a bit different depending on the student.
 You need to inform the teacher first day you are sick, when you're healthy again report it to the teacher.
 Update the teacher every Monday if you're sick.
 
-> :heavy_exclamation_mark: This applies even when you are working from home.
+> This applies even when you are working from home.
 
 >If there are any questions regarding routines at Lexicon contact us.
  
 
 **Arbetsförmedlingen**  
 You need to follow Arbetsförmedlingen's routines on how to call in sick.
-Found on their web page.
+Found on their web page.   
+
+[arbetsformedlingen.se](https://arbetsformedlingen.se/other-languages/english-engelska/extra-stod/ersattning-och-franvaro/nar-du-deltar-i-ett-program)
 
 **Försäkringskassan**  
 Maybe you need to report to Försäkringskassan?
-You need to follow there guidelines on their webpage.
+You need to follow there guidelines on their webpage.   
+
+[forsakringskassan.se](https://www.forsakringskassan.se/english)
 
 ---
