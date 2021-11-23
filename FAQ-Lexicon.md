@@ -10,7 +10,7 @@
 ---
 ## Where is the Lexicon Office located?
 
- > Lexicon exists in multiple location.  
+ > ❗ Lexicon exists in multiple location.  
  > We are only associated with the offices in Växjö & Jönköping.
 
 ### Offices
@@ -116,7 +116,7 @@ The process could look a bit different depending on the student.
 You need to inform the teacher first day you are sick, when you're healthy again report it to the teacher.
 Update the teacher every Monday if you're sick.
 
-> This applies even when you are working from home.
+> ❗ This applies even when you are working from home.
 
 >If there are any questions regarding routines at Lexicon contact us.
  
