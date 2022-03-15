@@ -60,18 +60,19 @@ Owner of Lexicon Småland
 - Phone: [036-30 56 34](tel:036305634)
 - Mobile: [070-376 65 54](tel:0703766554)
 
+### Marcus Gudmundsen
+
+Office Manager and IT
+
+- Email: marcus.gudmundsen@lexicon.se
+- Phone: [036-30 56 33](tel:036305633)
+- Mobile: [076-878 79 69](tel:0768787969)
 
 ### Ulf Bengtsson
 
 Educator in: .Net, Java
 
 - Email: ulf.bengtsson@lexicon.se
-
-### Erik Svensson
-
-Educator in: Java
-
-- Email: erik.svensson@lexicon.se
 
 ### Simon Elbrink
 
