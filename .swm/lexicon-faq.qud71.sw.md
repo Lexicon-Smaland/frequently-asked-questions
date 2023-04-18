@@ -1,12 +1,14 @@
 ---
 id: qud71
-title: Testing Swimm
+title: Lexicon FAQ
 file_version: 1.1.2
 app_version: 1.6.3
 ---
 
 ```markdown
-# Frequently Asked Questions
+
+
+ Frequently Asked Questions
 
 - [Where is the Lexicon Office located?](#where-is-the-lexicon-office-located)
 - [When is the Lexicon office open?](#when-is-the-lexicon-office-open)
@@ -144,8 +146,6 @@ You need to follow there guidelines on their webpage.
 
 ---
 ```
-
-<br/>
 
 <br/>
 
