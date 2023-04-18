@@ -42,12 +42,11 @@ Google Maps: [Link](https://goo.gl/maps/TVpQuSewEMM6oBiq6)
 ---
 ## When is the Lexicon office open?
 
-**Our manned office hours are:**   
+**Our office hours are:**   
 Monday - Friday, 08:00 - 17:00
 
 
-> If you plan to visit us contact in advanced,
-> due to current situation.
+> If you plan to visit us contact in advanced.
 
 
 ---
@@ -77,12 +76,6 @@ Office Manager and IT
 - Email: marcus.gudmundsen@lexicon.se
 - Phone: [036-30 56 33](tel:036305633)
 - Mobile: [076-878 79 69](tel:0768787969)
-
-### Ulf Bengtsson
-
-Educator in: .Net, Java
-
-- Email: ulf.bengtsson@lexicon.se
 
 ### Simon Elbrink
 
