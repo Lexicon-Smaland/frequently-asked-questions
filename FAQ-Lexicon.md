@@ -45,21 +45,24 @@ Office Manager and IT (CTO)
 
   
 
-**Simon Elbrink**
-
-Educator in: Java
-
-*   Email: [simon.elbrink@lexicon.se](mailto:simon.elbrink@lexicon.se)
-
-  
-
 **Mehrdad Javan**
 
 Educator in: Java
 
 *   Email: [mehrdad.javan@lexicon.se](mailto:mehrdad.javan@lexicon.se)
 
+**Negar Baharmand**
+
+Educator in: Java
+
+*   Email: [negar.baharmand@lexicon.se](mailto:negar.baharmand@lexicon.se)
   
+**Simon Elbrink**
+
+Educator in: Java
+
+*   Email: [simon.elbrink@lexicon.se](mailto:simon.elbrink@lexicon.se)
+
 
 * * *
 
