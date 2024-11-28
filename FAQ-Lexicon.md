@@ -51,12 +51,7 @@ Educator in: Java
 
 *   Email: [mehrdad.javan@lexicon.se](mailto:mehrdad.javan@lexicon.se)
 
-**Negar Baharmand**
 
-Educator in: Java
-
-*   Email: [negar.baharmand@lexicon.se](mailto:negar.baharmand@lexicon.se)
-  
 **Simon Elbrink**
 
 Educator in: Java
@@ -64,6 +59,14 @@ Educator in: Java
 *   Email: [simon.elbrink@lexicon.se](mailto:simon.elbrink@lexicon.se)
 
 
+**Elnaz Azizi**
+
+Educator in: Java
+
+*   Email: [elnaz.azizi@lexicon.se](mailto:elnaz.azizi@lexicon.se)
+
+
+  
 * * *
 
 ## I'm sick, What do I need to do?
