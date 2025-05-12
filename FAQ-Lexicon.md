@@ -18,9 +18,6 @@
 **Lexicon Växjö**
 0470-77 77 25
 
-**Lexicon Jönköping**
-036-30 56 30
-
 <br>
 
 **People Contacts:**
@@ -119,8 +116,7 @@ Monday - Friday, 08:00 - 17:00
 ## Where is the Lexicon office located?
 
 > ❗ Lexicon offices exists in multiple location in Scandinavia.  
-> We are associated with the offices in Växjö & Jönköping.
-
+> We are associated with the office in Växjö.
   
 
 **Växjö**
@@ -131,15 +127,6 @@ Hjalmar Petris väg 32
 
 Google Maps: [Link](https://goo.gl/maps/tWtj4YQ1RwBzBg2d6)
 
-  
-
-**Jönköping**
-
-Östra Storgatan 37
-553 21 Jönköping
-Google Maps: [Link](https://goo.gl/maps/TVpQuSewEMM6oBiq6)
-
-  
 
 * * *
 
